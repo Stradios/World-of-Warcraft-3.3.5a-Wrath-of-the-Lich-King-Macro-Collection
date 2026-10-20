@@ -219,7 +219,7 @@ Automatically chooses the correct mount depending on where your character is.
 
 ```lua
 #showtooltip Resurrection
-/cast [@mouseover,help,nodead][] Resurrection
+/cast [@mouseover,help,dead][] Resurrection
 ```
 
 ---
