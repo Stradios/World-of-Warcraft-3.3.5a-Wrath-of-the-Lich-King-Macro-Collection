@@ -1,4 +1,5 @@
 # 🐉 World of Warcraft 3.3.5a (Wrath of the Lich King) Macro Collection
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M8K423K344)
 
 A curated collection of useful macros for **World of Warcraft: Wrath of the Lich King (3.3.5a)**.
 
